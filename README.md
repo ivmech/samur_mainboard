@@ -19,7 +19,13 @@ PINOUTS
 
 USAGE and INSTALLATION
 --------
+Python Module
 https://github.com/ivmech/samur
+
+MQTT Daemon
+https://github.com/ivmech/SamurMQTT
+
+![alt samur_mainboard_domoticz](https://raw.githubusercontent.com/ivmech/samur_mainboard/master/images/samur_domoticz.jpg)
 
 Authors
 -------
