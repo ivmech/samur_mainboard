@@ -1,0 +1,3 @@
+[submodule "samur"]
+	path = samur
+	url = https://github.com/ivmech/samur
