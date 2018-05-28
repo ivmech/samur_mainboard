@@ -16,3 +16,7 @@ DOCUMENTATION
 PINOUTS
 --------
 ![alt samur_mainboard_pinout](https://raw.githubusercontent.com/ivmech/samur_mainboard/master/images/samur_main_r01_pinout.jpg)
+
+USAGE and INSTALLATION
+--------
+https://github.com/ivmech/samur
