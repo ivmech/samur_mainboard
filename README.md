@@ -20,3 +20,8 @@ PINOUTS
 USAGE and INSTALLATION
 --------
 https://github.com/ivmech/samur
+
+Authors
+-------
+
+Ivmech Mechatronics Ltd.
